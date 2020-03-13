@@ -5,6 +5,7 @@ import MyComponent from '../MyComponent/MyComponent'
 function App() {
   return (
     <div className="App">
+      Test
       <MyComponent></MyComponent>
     </div>
   );
